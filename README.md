@@ -15,3 +15,26 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+# Flutter Todo App
+
+This is a simple mini project built using Flutter and Dart.
+
+## Technologies Used
+Flutter
+Dart
+VS Code
+GitHub
+
+## Features
+- Add new tasks
+- Delete tasks
+- Simple user interface
+
+## How to Run
+1. Install Flutter
+2. Clone repository
+3. Run flutter pub get
+4. Run flutter run
+
+## Author
+Student Mini Project
